@@ -1,0 +1,14 @@
+{
+  "name": "percobaan_pertama_hunayn",
+  "version": "1.0.0",
+  "description": "Hunayn Risatayn TI-3E new package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunayn Risatayn",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
