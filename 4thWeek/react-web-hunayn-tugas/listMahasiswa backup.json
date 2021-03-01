@@ -1,0 +1,84 @@
+{
+  "mahasiswa": [
+    {
+      "nim": 1841720140,
+      "nama": "Andika Wijaya",
+      "alamat": "Jl. Kutisari V No. 2 Surabaya",
+      "hp": "081225983454",
+      "angkatan": "2019",
+      "status": "aktif"
+    },
+    {
+      "nim": 1841720143,
+      "nama": "Citra Santika",
+      "alamat": "Jl. Kusuma Bangsa III No. 26 Surabaya",
+      "hp": "081566387402",
+      "angkatan": "2017",
+      "status": "lulus"
+    },
+    {
+      "nim": 1841720126,
+      "nama": "Bagaskara Sandi",
+      "alamat": "Jl. Ketabang Kali IX No. 5 Surabaya",
+      "hp": "081972648834",
+      "angkatan": "2018",
+      "status": "cuti"
+    },
+    {
+      "nim": 1841720152,
+      "nama": "Yuni Rinata",
+      "alamat": "Jl. Mayjend Sungkono 148 Surabaya",
+      "hp": "0811252550",
+      "angkatan": "2015",
+      "status": "lulus"
+    },
+    {
+      "nim": 1841720120,
+      "nama": "Erika Lina",
+      "alamat": "Jl. Simo Pomahan II No. 53 Surabaya",
+      "hp": "089836064718",
+      "angkatan": "2016",
+      "status": "aktif"
+    },
+    {
+      "nim": 1841720147,
+      "nama": "Gita Dewi",
+      "alamat": "Jl. Jemur Sari VI No. 29 Surabaya",
+      "hp": "089757669234",
+      "angkatan": "2015",
+      "status": "cuti"
+    },
+    {
+      "nim": 1841720166,
+      "nama": "Pipit Handayani",
+      "alamat": "Jl. Kedung Baruk I No. 47 Surabaya",
+      "hp": "081304396182",
+      "angkatan": "2017",
+      "status": "lulus"
+    },
+    {
+      "nim": 1841720150,
+      "nama": "Ricko Setiawan",
+      "alamat": "Jl. Gubeng Klingsingan V No. 8 Surabaya",
+      "hp": "081682570239",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "nim": 1841720154,
+      "nama": "Widi Nita",
+      "alamat": "Jl. Manyar Sabrangan IV No. 33 Surabaya",
+      "hp": "081253924611",
+      "angkatan": "2016",
+      "status": "cuti"
+    },
+    {
+      "nim": 1841720148,
+      "nama": "Irene Vina",
+      "alamat": "Jl. Jambangan 152 Surabaya",
+      "hp": "081861379236",
+      "angkatan": "2019",
+      "status": "aktif"
+    }
+  ]
+}
