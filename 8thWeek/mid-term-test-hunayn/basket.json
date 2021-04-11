@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "nama_produk": "Panasonic Rice Cooker - Panasonic 0.6 L Rice Cooker",
+      "harga": 710000,
+      "gambar": "https://www.pngkey.com/png/full/498-4987999_electric-rice-cooker-commercial-rice-cooker.png",
+      "stok": 1
+    },
+    {
+      "id": 3,
+      "nama_produk": "Morphy Richards Rice N More DLX 1.8-Litre 700-Watt Stainless Steel Electric Rice Cooker",
+      "harga": 570000,
+      "gambar": "https://www.pngkey.com/png/full/372-3721130_but-while-using-an-electric-cooker-might-be.png",
+      "stok": 1
+    }
+  ]
+}

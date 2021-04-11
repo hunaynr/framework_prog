@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nama_produk": "Jax-R Series White Micom Rice Cooker With Tacook Cooking - Rice Cooker",
+      "harga": 625000,
+      "gambar": "https://www.pngkey.com/png/full/827-8273413_jax-r-series-white-micom-rice-cooker-with.png",
+      "stok": 3
+    },
+    {
+      "id": 2,
+      "nama_produk": "Panasonic Rice Cooker - Panasonic 0.6 L Rice Cooker",
+      "harga": 710000,
+      "gambar": "https://www.pngkey.com/png/full/498-4987999_electric-rice-cooker-commercial-rice-cooker.png",
+      "stok": 8
+    },
+    {
+      "id": 3,
+      "nama_produk": "Morphy Richards Rice N More DLX 1.8-Litre 700-Watt Stainless Steel Electric Rice Cooker",
+      "harga": 570000,
+      "gambar": "https://www.pngkey.com/png/full/372-3721130_but-while-using-an-electric-cooker-might-be.png",
+      "stok": 4
+    },
+    {
+      "id": 4,
+      "nama_produk": "RCF-8C - Rice Cooker 3d New Generation",
+      "harga": 835000,
+      "gambar": "https://www.pngkey.com/png/full/498-4987261_rcf-8c-rice-cooker-3d-new-generation.png",
+      "stok": 6
+    },
+    {
+      "id": 5,
+      "nama_produk": "Panasonic Rice Cooker - Panasonic 0.6 L Rice Cooker",
+      "harga": 640000,
+      "gambar": "https://www.pngkey.com/png/full/498-4987774_panasonic-rice-cooker-panasonic-0-6-l-rice-cooker.png",
+      "stok": 3
+    },
+    {
+      "id": 6,
+      "nama_produk": "Tefal RK1568UK Cool Touch Rice Cooker 700 W - 1.8 Litre - Black",
+      "harga": 785000,
+      "gambar": "https://dukakuu.com/image/cache/catalog/website/MOULINEX/MK156127-1000x1000h.png",
+      "stok": 9
+    },
+    {
+      "id": 7,
+      "nama_produk": "Cuckoo Malaysia White 1010 Multi Cooker - Rice Cooker",
+      "harga": 520000,
+      "gambar": "https://www.pngkey.com/png/full/765-7658511_cuckoo-malaysia-white-1010-multi-cooker-rice-cooker.png",
+      "stok": 5
+    },
+    {
+      "id": 8,
+      "nama_produk": "Russell Hobbs 19750 Rice Cooker and Steamer - 1.8 Litre - Silver",
+      "harga": 980000,
+      "gambar": "https://images.squarespace-cdn.com/content/v1/57c7cf50197aea831dedc39c/1489029340234-L3N11DMNNTRH9VI3D780/ke17ZwdGBToddI8pDm48kOXZ2bTJ1Tl8Sir-6FDxMAIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcgFGyCX2oT9AiAwRj4RMm8fA0WPxvxHxcGR7eVwaFKUAGEfXelMQ8KOwVCtiYkoAj/SW10000+Rice+Cooker.png?format=750w",
+      "stok": 8
+    },
+    {
+      "id": 9,
+      "nama_produk": "Zojirushi Ns-rnc18 Rice Cooker - 700w - 1.8 Litre",
+      "harga": 645000,
+      "gambar": "https://www.pngkey.com/png/full/498-4987706_zojirushi-ns-rnc18-rice-cooker-700w-1-8-litre.png",
+      "stok": 2
+    },
+    {
+      "id": 10,
+      "nama_produk": "Moulinex Rice Cooker 10 Cups or 1.8 Ltrs. Glass Lid MK111E27",
+      "harga": 830000,
+      "gambar": "https://dukakuu.com/image/cache/catalog/website/MOULINEX/MK111E27-1000x1000h.png",
+      "stok": 7
+    }
+  ]
+}
